@@ -38,8 +38,3 @@ Install all required packages using :-
 
 License :-
     This project is open-source under the MIT License.
-
-DEMO :- 
-
-https://github.com/user-attachments/assets/54516b12-b0f0-4775-b33d-98b368a16998
-
